@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=SERVER.vbp
+Project=clientvbp.vbp
+Project=..\RockTCPSocket.vbp

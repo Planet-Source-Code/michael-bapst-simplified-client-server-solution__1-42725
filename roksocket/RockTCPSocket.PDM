@@ -1,0 +1,334 @@
+[Root]
+Most Recent Package=Dep File 2
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modGenGUID.bas=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modUtil.bas=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\readme.txt=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbp=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbw=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSocket.cls=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSockets.cls=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.dll=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.exp=
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.lib=
+C:\WINDOWS\SYSTEM\RokTCPSocket.DEP=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\RokTCPSocket.dll=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modGenGUID.bas=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modUtil.bas=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\readme.txt=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbp=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbw=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSocket.cls=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSockets.cls=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.exp=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.lib=Yes
+C:\WINDOWS\SYSTEM\RokTCPSocket.DEP=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\WINDOWS\SYSTEM\RokTCPSocket.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modGenGUID.bas=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modUtil.bas=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\readme.txt=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbp=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbw=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSocket.cls=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSockets.cls=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.dll=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.exp=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.lib=$(AppPath)
+C:\WINDOWS\SYSTEM\RokTCPSocket.DEP=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modGenGUID.bas=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\modUtil.bas=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\readme.txt=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbp=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RockTCPSocket.vbw=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSocket.cls=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokSockets.cls=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.dll=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.exp=No
+F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket\RokTCPSocket_verCompat.lib=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Ragnarok ActiveX Simple Server Sockets
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Ragnarok Solutions
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Ragnarok Solutions]
+Icon1=RockTCPSocket.vbp
+Title1=Ragnarok Simple Server Class
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=F:\package
+ProjectFolder=F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket
+ServerSideCab=
+File1=F:\package\setup.exe
+File2=F:\package\Setup.Lst
+File3=F:\package\RokTCPSocket.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|RokSocket Dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\windows\system
+
+[Package|RokSocket Dep|Configure DAO ISAMs]
+Applicable=No
+
+[Package|RokSocket Dep|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|RokSocket Dep|Files Found]
+
+[Package|RokSocket Dep|Files Released]
+
+[Package|RokSocket Dep|Missing Dependency Information]
+
+[Package|RokSocket Dep|Out-of-Date Dependency Information]
+
+[Package|RokSocket Dep|Files Added]
+
+[Package|RokSocket Dep|Files Removed]
+
+[Package|RokSocket Dep|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+F:\program files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\RokSock.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+
+[Package|RokSocket Dep|Configure Registry Files]
+Applicable=
+
+[Package|RokSocket Dep|Configure Remote Servers]
+Applicable=
+
+[Package|RokSocket Dep|Install Locations]
+C:\WINDOWS\SYSTEM\RokSocket.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\program files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RokTCPSocket.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RokSock.dll=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+
+[Package|RokSocket Dep|Configure Shared Files]
+Applicable=
+
+[Package|RokSocket Dep|DepFile]
+DepCabFile=RokSocket.CAB
+DepCabRun=RokSocket.INF
+
+[Package|RokSocket Dep|Package]
+PackageFolder=c:\windows\system
+ProjectFolder=F:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket
+ServerSideCab=
+File1=c:\windows\system\RokSock.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\WINDOWS\SYSTEM32
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\WINDOWS\SYSTEM32\RokSock.dll=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\Mswinsck.ocx=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\WINDOWS\SYSTEM32\RokSock.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\Mswinsck.ocx=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=RokSock.CAB
+DepCabRun=RokSock.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\WINDOWS\SYSTEM32
+ProjectFolder=E:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket
+ServerSideCab=
+File1=C:\WINDOWS\SYSTEM32\RokSock.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\WINDOWS\SYSTEM32
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+
+[Package|Dep File 2|Files Released]
+
+[Package|Dep File 2|Missing Dependency Information]
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+
+[Package|Dep File 2|Files Added]
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+C:\WINDOWS\system32\RokSock.dll=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 2|Install Locations]
+C:\WINDOWS\system32\RokSock.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 2|DepFile]
+DepCabFile=RokSock.CAB
+DepCabRun=RokSock.INF
+
+[Package|Dep File 2|Package]
+PackageFolder=C:\WINDOWS\SYSTEM32
+ProjectFolder=E:\Program Files\Microsoft Visual Studio\VB98\Projects\ActiveX\RokDlls\roksocket
+ServerSideCab=
+File1=C:\WINDOWS\SYSTEM32\RokSock.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
